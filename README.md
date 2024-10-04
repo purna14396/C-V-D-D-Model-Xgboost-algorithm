@@ -64,6 +64,7 @@ After training the model, it is evaluated using:
 - **Accuracy**: Measures overall performance.
 - **Confusion Matrix**: Provides insight into the model's true positives and negatives.
 - **Classification Report**: Detailed metrics like precision, recall, and F1-score.
+  ![Screenshot 2024-10-04 163403](https://github.com/user-attachments/assets/2fd9b8ea-fb3c-49b1-820d-eb393d65e646)
 
 Model achieved **84.4% accuracy** on the test set.
 
@@ -79,9 +80,11 @@ Model achieved **84.4% accuracy** on the test set.
     - Age, Gender, Height, Weight
     - Blood Pressure, Cholesterol Levels, Glucose Levels
     - Lifestyle habits (Smoking, Alcohol, Activity)
+![Screenshot 2024-10-04 163420](https://github.com/user-attachments/assets/c5ee1906-c32a-4d2f-b26a-b371b0061269)
+![Screenshot 2024-10-04 163447](https://github.com/user-attachments/assets/08814dbf-87a0-4ef7-b102-4c53659c70c8)
 
 3. The system will output whether the user is likely to have cardiovascular disease based on the inputted data.
-
+![Screenshot 2024-10-04 163505](https://github.com/user-attachments/assets/12c61519-d218-4ff8-b2b1-39e029f473b5)
 ---
 
 ## Conclusion
