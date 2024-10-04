@@ -66,7 +66,6 @@ After training the model, it is evaluated using:
 - **Classification Report**: Detailed metrics like precision, recall, and F1-score.
   ![Screenshot 2024-10-04 163403](https://github.com/user-attachments/assets/2fd9b8ea-fb3c-49b1-820d-eb393d65e646)
 
-Model achieved **84.4% accuracy** on the test set.
 
 ---
 
